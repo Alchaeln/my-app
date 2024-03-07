@@ -13,6 +13,7 @@ const ThreeScene = () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.getElementById('root').appendChild(renderer.domElement);
 
+    //added point light
     const pointLight = new THREE.PointLight(0xFFFFFF, 1000);
     pointLight.position.set(15,10,5);
  
