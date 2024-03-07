@@ -1,0 +1,11 @@
+Model Information:
+* title:	Weather 3D icon visualisation baked
+* source:	https://sketchfab.com/3d-models/weather-3d-icon-visualisation-baked-cfb4c4a6af7344f985f8b0296c67988b
+* author:	Rob Li (https://sketchfab.com/LiBinZyu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Weather 3D icon visualisation baked" (https://sketchfab.com/3d-models/weather-3d-icon-visualisation-baked-cfb4c4a6af7344f985f8b0296c67988b) by Rob Li (https://sketchfab.com/LiBinZyu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
