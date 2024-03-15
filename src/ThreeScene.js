@@ -21,11 +21,12 @@ const ThreeScene = () => {
     const ambientLight = new THREE.AmbientLight(0xFFFFFF, 100);
     scene.add(pointLight, ambientLight);
 
-    // Replace BoxGeometry with SphereGeometry
+    //SphereGeometry
     const geometry = new THREE.SphereGeometry(1, 32, 32); // radius, width segments, height segments
     const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
     const sphere = new THREE.Mesh(geometry, material);
-
+    sphere.position.y = 2;
+    
     scene.add(sphere);
 
     camera.position.z = 5;
